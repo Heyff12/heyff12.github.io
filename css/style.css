@@ -3070,3 +3070,10 @@ pre .javascript .function {
   color: #ea6f5a;
   border-color: #ea6f5a;
 }
+.red {
+  color: #f00;
+}
+.aboutimg {
+  width: 300px;
+  height: auto;
+}
